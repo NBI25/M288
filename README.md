@@ -2,7 +2,7 @@
 
 In den vergangenen Wochen habe ich mich intensiv mit dem Programmieren auseinandergesetzt, wobei ich mich auf ein Snake Game Tutorial fokussiert habe. Durch YouTube-Videos und meine Kenntnisse im Visual Studio-Code konnte ich das Tutorial implementieren und ein eigenes Snakegame-Programm erstellen.
 
-Nachdem ich im Modul des Tutorials das Grundgerüst implementiert hatte, fing ich an, das Spiel nach meinen eigenen Vorstellungen zu entwerfen. Unter anderem umfasste dies die Anpassung der Grafiken, die Einführung zusätzlicher Funktionen und die Verbesserung des Spielablaufs.
+Nachdem ich im Modul des Tutorials das Grundgerüst implementiert hatte, fing ich an, das Spiel nach meinen eigenen Vorstellungen zu gestalten. Unter anderem umfasste dies die Anpassung der Grafiken, die Einführung zusätzlicher Funktionen und die Verbesserung des Spielablaufs.
 
 Ich habe meinem Spiel eine ganz eigene Note gegeben, indem ich meine eigene Hintergrundmusik hinzugefügt habe. Auf diese Weise konnte ich nicht nur das Spielerlebnis optimieren, sondern auch meine schöpferische Kreativität demonstrieren.
 
